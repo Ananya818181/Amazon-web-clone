@@ -5,3 +5,9 @@ This project is a static clone of Amazon's homepage, created using HTML and CSS.
 - Amazon-like homepage layout
 - Includes core UI components: navigation bar, search bar, and product listings
 - JavaScript enhancements planned for responsiveness
+## Screenshots
+![Homepage Screenshot](Screenshot(3).png)
+*Screenshot of the homepage layout.*
+
+![Homepage Screenshott](Screenshot(4).png)
+*Screenshot showing the product listings section.*
