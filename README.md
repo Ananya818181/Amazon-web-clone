@@ -1,2 +1,7 @@
 # Amazon-web-clone
-A static clone of Amazon's homepage using HTML and CSS, with plans to add JavaScript for responsiveness. This project replicates key UI elements like the navigation bar, search bar, and product listings, aimed at improving front-end development skills.
+This project is a static clone of Amazon's homepage, created using HTML and CSS. The goal is to replicate the key design and UI elements of the Amazon homepage, with future plans to add JavaScript for enhanced responsiveness.
+
+Features
+Amazon-like homepage layout
+Includes core UI components: navigation bar, search bar, and product listings
+JavaScript enhancements planned for responsiveness
